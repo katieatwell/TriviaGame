@@ -1,0 +1,62 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+body {
+	margin-top: 20px;
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+#a1, #a2, #a3, #a4 {
+	height: 90px;
+	width: 50%;
+	margin-bottom: 50px;
+	box-shadow: 0 0 0px 0px;
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 20px;
+	padding-bottom: 20px;
+	cursor: pointer;
+
+}
+
+.question {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 40px;
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+
+.timer {
+	text-align: right;
+}
+#questionTimer{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 20px;
+	color: red;
+}
+.col-md-4 {
+
+}
+
+#instruct{
+	margin: 1em 3em;
+	color: #999;
+	border-left: 2px solid #999;
+	padding-left: 1em;
+}
+
+
+.changeColor {
+	background-color: #ebebeb;
+	font-size: small;
+}
